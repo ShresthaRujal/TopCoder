@@ -1,4 +1,4 @@
-package com.challenges.topCoder.day1;
+package com.challenges.topCoder.easy;
 
 import java.util.Scanner;
 
